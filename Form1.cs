@@ -16,5 +16,10 @@ namespace ProjectAkhir_MiniMarket_C4
         {
             InitializeComponent();
         }
+
+        private void toolStripDropDownButton1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
